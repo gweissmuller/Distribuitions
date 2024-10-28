@@ -1,1 +1,1 @@
-primeiro
+print("primeiro")
